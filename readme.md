@@ -3,7 +3,6 @@
 Um projeto simples para demonstrar como consumir APIs usando JavaScript vanilla e a Fetch API.
 
 ![Preview](preview_desktop.png)
-![Preview](preview_mobile.png)
 
 ## 🎯 O que faz
 
